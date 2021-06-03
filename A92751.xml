@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scottish determination and loyaltie. Declaring, the manner of the papists, and other malignant persons rising in armes in that kingdome of Scotland, and the manner of their suppression. With the Kings commission for the raising of force and armes, and the Scots directions of the same to the high court of Parliament, desiring their prudent advice. Likewise His Majesties letter to the L. Major of Edinburgh. As also a cleare manifestation of the Scots love and loyalty to the Parliament. Lastly, a new order lately set forth from the House of Commons.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92751</idno><idno type="EEBO-CITATION">99865582</idno>
+  <idno type="VID">156822</idno>
+  <idno type="EEBO-PROQUEST">2248495938</idno>
+  
+            <idno type="STC">Wing S2091</idno>
+            <idno type="STC">Thomason E154_15</idno>
+            <idno type="STC">ESTC R20642</idno>
+            <idno type="PROQUEST">99865582</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865582e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156822)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scottish determination and loyaltie. Declaring, the manner of the papists, and other malignant persons rising in armes in that kingdome of Scotland, and the manner of their suppression. With the Kings commission for the raising of force and armes, and the Scots directions of the same to the high court of Parliament, desiring their prudent advice. Likewise His Majesties letter to the L. Major of Edinburgh. As also a cleare manifestation of the Scots love and loyalty to the Parliament. Lastly, a new order lately set forth from the House of Commons.</title>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. H. and R. T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of t.p. : July 7 1642.</note>
+                  <note>Variant: title continues "and ordered to be printed. H. Elsyng. Cl. Parl.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156822:1"/>
+            <p>
+               <hi>July</hi> 7 1642.</p>
+            <p>THE SCOTTISH Determination AND LOYALTIE.</p>
+            <p>DECLARING, The manner of the PAPISTS, and other malignant Persons rising in Armes in that Kingdome of <hi>Scotland,</hi> and the manner of their suppression.</p>
+            <p>With the <hi>Kings</hi> Commission for the raising of Force and Armes, and the <hi>SCOTS</hi> Directions of the same to the high Court of <hi>PARLIAMENT,</hi> de<g ref="char:EOLhyphen"/>siring their prudent Advice.</p>
+            <p>LIKEWISE His <hi>Majesties</hi> Letter to the L. <hi>Major</hi> of <hi>Edinburgh.</hi>
+            </p>
+            <p>AS ALSO A cleare manifestation of the <hi>Scots</hi> Love and Loy<g ref="char:EOLhyphen"/>alty to the <hi>PARLIAMENT.</hi>
+            </p>
+            <p>LASTLY, A new <hi>Order</hi> lately set forth from the <hi>House</hi> of <hi>Commons.</hi>
+            </p>
+            <p>London, Printed for <hi>I. H.</hi> and <hi>R. T.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156822:2"/>
+            <pb n="1" facs="tcp:156822:2"/>
+            <head>THE Scottish Determination and Loyaltie.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Scots,</hi> whose Actions are not onely weighed with Fidelity, but also Maturity of Consideration, have now declared the absolute, and perfect Estate of the whole Kingdome of <hi>SCOTLAND.</hi>
+            </p>
+            <p>It is not unknowne what unhap<g ref="char:EOLhyphen"/>py Warres have beene lately fo<g ref="char:EOLhyphen"/>mented betweene Vs; but if wee scrutably search into the Causes, the Effects will not seeme so strange or wonderfull: for what they did was onely a maintenance and preservation of their Religion (more de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re and precious to them then their lives) of their Liberties and iust Proprietie. For <hi>Canterbury</hi> in his time did tiranni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e most extreamly over them, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould have (as his Intentions were bended) trampled over their <hi>Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>scien<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> urging upon them Matters in Religion not onely super<g ref="char:EOLhyphen"/>stitious
+<pb n="2" facs="tcp:156822:3"/> and prophane in themselves, but also tending highly to the nourishment and advancement of <hi>Popery,</hi> and <hi>Ro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ish</hi> Innovations.</p>
+            <p>After his wicked and egregious mind had compassed that resolution, and he had forced such illegall, or rather irreligious points and superstitions on them they could not in discharg<g ref="char:EOLhyphen"/>ing their cleere consciences do otherwise, then immediately stand in defen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their Religion, and liberties, from any uniust violation; so that they then armed themselves and resolved to come to <hi>England</hi> for Iustice.</p>
+            <p>But it pleased GOD to call a wise, and prudent Parlia<g ref="char:EOLhyphen"/>ment together, who suddainly composed that Variance, and reconciled in two <hi>Kingdomes</hi> ingaged in Warr, man absolute Contract of Pacification, as well for the time then present as also for the future.</p>
+            <p>And ever since that time there hath beene a generall Peace concluded on, and not the least motion or suspition of any Civill discord to arise againe till of late: for the King and the Parliament have been at such extream difference, and alie<g ref="char:EOLhyphen"/>nation of affection or confidence in each other, that not onely feares and iealousies, distractions and distempers, but also im<g ref="char:EOLhyphen"/>minent danger have been greatly suspected to approach. For besides their Declarations, and Remonstrances Messages, and Re<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nes, so often and frequently interceding, it is iustly to be seared, that they will grow to more then verball Conte<g ref="char:EOLhyphen"/>stations. For it most perspicuously appeares, that the King seduced by wicked Councell intends to make Warre against his high Court of <hi>Iudicature;</hi> witnesse his private Warrants in divers Counties to hire, and provide Souldiers for his Ma<g ref="char:EOLhyphen"/>iesties service, witnesse his going to <hi>Hull</hi> in a way of Hostili<g ref="char:EOLhyphen"/>tie; witnesse also his publique Warrants, and Commerce in <hi>Holla<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> where hee pawned not onely divers Pearles and pre<g ref="char:EOLhyphen"/>cious Iewells; but also the rarest Gemms in the Crowne for<g ref="char:EOLhyphen"/>merly
+<pb n="3" facs="tcp:156822:3"/> invested, only to maintaine this pretended and intended Warre; so many Pistolls, Horse, Horsmen, and Powdet be<g ref="char:EOLhyphen"/>ing also provided for the same purpose, to be conducted and sent over to his Maiesties Service aforesaid.</p>
+            <p>The <hi>SCOTS</hi> therefore understanding most apparantly all these severall particulars, heerein included, and more were resolved to take the most iust and equitable case: And they conceived that divers malignant Persons did usually meet at <hi>Edinburgh,</hi> such onely, or especially, whom the PARLIAMENT have knowne Incendiaries, Plotters, and enemies to the State, and Peace of the Kingdome, they had iust occasion to suspect some evill Designe then hatching and in agitation.</p>
+            <p>But withall, as soone as they saw their frequent Convo<g ref="char:EOLhyphen"/>cation, and then usually bringing some part of Ammanition, and prov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sion of Armes with them, they immediately con<g ref="char:EOLhyphen"/>cluded that those factious and malignant Spirits intended to side with the King against his PARLIAMENT, Wherefore they stopped some, others they apprehended: and some they committed to safe custodie, accordingly as they answered at their Examinations before a Magistrate. For they conceive, that if they should permit those Sedi<g ref="char:EOLhyphen"/>tions and Discords, they may at length aspire to that as<g ref="char:EOLhyphen"/>cent of malignity, wherein they raysing a Faction heere also may engage both these Kingdomes in another unhappy Warre.</p>
+            <p>They will doe nothing that shall offend either King, or Parliament, but of the two, they will comply withe the iustest cause. The King hath sent a Commmission thither for the raising of Forces, and Armes to attend his Maiestie, but the SCOTS would not condiscend to the execution there<g ref="char:EOLhyphen"/>of, untill they had received directions, and intelligence f<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the <hi>PARLIAMENT,</hi> least they should any way<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gresse
+<pb n="4" facs="tcp:156822:4"/> in their willingnesse to His Maiesty, for indifferent and severall Commands, a conformity of obedience is very difficult.</p>
+            <p>His Maiestie hath also sent divers Letters to the Lord Maior of <hi>Edenburgh,</hi> intimating that hee commanded him to assist his Maiestie with Forces of Armes, whensoever oc<g ref="char:EOLhyphen"/>casion or necessity shall require.</p>
+            <p>But the <hi>SCOTS</hi> whose knowne fidelity will not tran<g ref="char:EOLhyphen"/>scend the limits of Iustice, will not performe any thing, that may bee either preiudicall to his sacred Maiestie, iniuri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us to the PARLIAMENT, or disadvantagious to the prosperous peace, happinesse and securitie of this whole Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="order">
+            <pb facs="tcp:156822:4"/>
+            <p>IT is Ordered by the Commons now Assembled in Parlia<g ref="char:EOLhyphen"/>ment, That the severall Members of this House, doe forth<g ref="char:EOLhyphen"/>with give their Attendance upon the Publique Service of this Common wealth with which they are intrusted by their Countries. And the Sheriffes of the severall Counties of this Kingdome of <hi>England</hi> and Dominion of <hi>Wales</hi> are required to give notice of this Order unto all such Members of the House of Commons as are within their respective Counties; and speedely to make returne of such their doings, unto the <hi>Speaker</hi> of that House: And all such as shall not make their personall appearance according to the time appointed, in the House of Commons, shall each one forfeit one Hundered pounds, to be disposed of to the Warrs in <hi>Ireland,</hi> and un<g ref="char:EOLhyphen"/>dergo such further censure and punishment as the said House shall think fit for so great neglect of their duty in a time that so necessarily requires their assistance.</p>
+            <p>Provided alwaies, That all such as are specially imployed by this House, are to remaine in such imployments, untill they shall have particular Directions for their returne.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>
+                           <hi>Ordred that this be forthwith Printed.</hi>
+                        </p>
+                        <closer>
+                           <signed> H. Elsyng. Cl. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
